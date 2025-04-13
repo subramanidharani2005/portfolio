@@ -133,6 +133,11 @@
     transition: transform 0.3s ease, background-color 0.3s ease;
     border: 1px solid cornflowerblue;
   }
+  
+  .project-card a{
+  text-decoration:none;
+  color:white;
+  }
 
   .project-card:hover {
     transform: translateY(-10px);
